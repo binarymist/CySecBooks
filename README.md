@@ -63,6 +63,8 @@ For exploitation techniques in general (UNIX and Linux focused):
 - [The Other Kind of Patch](https://isisblogs.poly.edu/2014/04/02/the-other-kind-of-patch/)
 
 ### Book Resources
+- [Holistic Info-Sec for Web Developers (Fascicle 0)](https://leanpub.com/holistic-infosec-for-web-developers)
+- [Holistic Info-Sec for Web Developers (Fascicle 1)](https://leanpub.com/holistic-infosec-for-web-developers-fascicle1-vps-network-cloud-webapplications)
 - Modern Cryptanalysis: Techniques for Advanced Code Breaking [ISBN: 978-0-470-13593-8]
 - Modern Operating Systems, 4th Ed. [ISBN: 0-13-359162-X]
 
